@@ -1,7 +1,7 @@
 .header {
 
     height: 80px;
-    background-color: bisque;
+    background-color: burlywood;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -25,7 +25,7 @@
 }
 
 .header a:hover {
-    color: orange;
+    color: deeppink;
 }
 
 @media screen and (max-width: 768px) {
