@@ -12,13 +12,13 @@ const Cart = ({ cart }) => {
 
             <div className='person'>
                 <img src={logo} alt="" />
-                <h3>John Adams <br /> <small>Toronto, Canada</small></h3>
+                <h3>Niloy Modak <br /> <small>Sylhet, Bangladesh</small></h3>
             </div>
 
             <div className='person-detail'>
-                <p>75kg <br /><small>Weight</small></p>
-                <p>5.9 <br /> <small>Height</small></p>
-                <p>29yrs <br /> <small>Age</small></p>
+                <p>60kg <br /><small>Weight</small></p>
+                <p>5.5 <br /> <small>Height</small></p>
+                <p>27yrs <br /> <small>Age</small></p>
             </div>
 
             <h3>Add A Break</h3>
