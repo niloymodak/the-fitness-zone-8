@@ -1,6 +1,7 @@
 import React from 'react';
 import './Cart.css'
 import logo from '../../images/person.jpg'
+import img from '../../images/location.png'
 const Cart = ({ cart }) => {
 
     let time = 0;
@@ -11,8 +12,8 @@ const Cart = ({ cart }) => {
         <div className='cart'>
 
             <div className='person'>
-                <img src={logo} alt="" />
-                <h3>Niloy Modak <br /> <small>Sylhet, Bangladesh</small></h3>
+                <img className='person-img' src={logo} alt="" />
+                <h3>Niloy Modak <br /> <img className='location-img' src={img} alt="" /> <small>Sylhet, Bangladesh</small></h3>
             </div>
 
             <div className='person-detail'>

@@ -8,7 +8,7 @@ const Exercise = (props) => {
             <img src={img} alt="" />
             <div className='exercise-info'>
                 <p className='exercise-name'>{name}</p>
-                <p>{detail}</p>
+                <p>Details-: <small>{detail}</small></p>
                 <p className='time'>Time required: {time}</p>
             </div>
             <button onClick={() => props.handleAddToCart(props.exercise)} className='btn-list'>
