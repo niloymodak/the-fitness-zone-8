@@ -1,0 +1,24 @@
+.exercise-container {
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+    padding-left: 50px;
+
+}
+
+.component-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 50px;
+    margin: 50px 50px;
+}
+
+.cart-container {
+    background-color: #1C2B35;
+}
+
+
+@media screen and (max-width: 1100px) {
+    .component-container {
+        grid-template-columns: repeat(1, 1fr);
+    }
+}

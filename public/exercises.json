@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "img": "https://experiencelife.lifetime.life/wp-content/uploads/2021/08/f2-barbell-deadlift.jpg",
+        "name": "Deadlift",
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea praesentium eligendi quia itaque! Consequuntur labore assumenda placeat asperiores...",
+        "time": 30
+    },
+    {
+        "id": 2,
+        "img": "https://crossfitstein.com/wp-content/uploads/2020/03/back-squat.jpg",
+        "name": "Back squat",
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea praesentium eligendi quia itaque! Consequuntur labore assumenda placeat asperiores...",
+        "time": 30
+    },
+    {
+        "id": 3,
+        "img": "https://www.mensjournal.com/wp-content/uploads/mf/rookie-mistakes-bench-press.jpg?w=1000&h=563&crop=1&quality=86&strip=all",
+        "name": "Bench press",
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea praesentium eligendi quia itaque! Consequuntur labore assumenda placeat asperiores...",
+        "time": 30
+    },
+    {
+        "id": 4,
+        "img": "https://www.theboxmag.com/wp-content/uploads/2015/04/how-to-do-the-kettlebell-swing-promo-image.jpg?crop=535:301&width=1070&enable=upscale",
+        "name": "Kettlebell swing",
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea praesentium eligendi quia itaque! Consequuntur labore assumenda placeat asperiores...",
+        "time": 30
+    },
+    {
+        "id": 5,
+        "img": "https://mikereinold.com/wp-content/uploads/rookie-mistakes-the-pullup-main.jpg",
+        "name": "Pull ups",
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea praesentium eligendi quia itaque! Consequuntur labore assumenda placeat asperiores...",
+        "time": 30
+    },
+    {
+        "id": 6,
+        "img": "https://images-na.ssl-images-amazon.com/images/I/610FglUV0iL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+        "name": "Hamstring curl",
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea praesentium eligendi quia itaque! Consequuntur labore assumenda placeat asperiores...",
+        "time": 30
+    }
+]
