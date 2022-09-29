@@ -25,7 +25,7 @@
 }
 
 .header a:hover {
-    color: deeppink;
+    color: navy;
 }
 
 @media screen and (max-width: 768px) {
